@@ -12,7 +12,7 @@ test-quiz:
 	../.scripts/check.py
 
 test-program: program
-	curl -sLO https://raw.githubusercontent.com/nd-cse-30341-fa24/cse-30341-fa24-assignments/master/reading05/test_program.sh
+	curl -sLO https://www3.nd.edu/~pbui/cse.30341.fa24/static/txt/reading05/test_program.sh
 	chmod +x test_program.sh
 	./test_program.sh
 
