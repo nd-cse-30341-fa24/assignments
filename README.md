@@ -1,7 +1,5 @@
 # CSE 30341 Operating System Principles (Fall 2024) - Assignments
 
-![Dredd](https://github.com/nd-cse-30341-fa24/cse-30341-fa24-assignments/workflows/Dredd/badge.svg)
-
 This is the [CSE-30341-FA24] reading and project assignments repository for:
 
 - **Name**:     Domer McDomerson
