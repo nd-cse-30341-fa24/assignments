@@ -34,6 +34,8 @@ worth **4** points.
 
 - [Reading 11](https://www3.nd.edu/~pbui/teaching/cse.30341.fa24/reading11.html)
 
+- [Reading 12](https://www3.nd.edu/~pbui/teaching/cse.30341.fa24/reading12.html)
+
 ## Projects
 
 **Projects** are due at **noon** on the **Sunday** of the week assigned.
